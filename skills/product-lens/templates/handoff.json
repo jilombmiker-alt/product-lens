@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "record_kind": "template",
+  "project_id": null,
+  "artifact_id": null,
+  "artifact_version": null,
+  "mode": "planning",
+  "stage": null,
+  "scope": null,
+  "environment": "not_run",
+  "upstream_refs": [],
+  "artifacts": [],
+  "checks": [],
+  "review_decision": "return_for_revision",
+  "human_review": {
+    "required": true,
+    "checkpoint_id": null,
+    "status": "pending",
+    "artifact_version": null,
+    "scope": null,
+    "environment": null,
+    "source": null
+  },
+  "allowed_uses": [],
+  "blocked_uses": [
+    "尚未填写有效输入与验收"
+  ],
+  "next": {
+    "stage": null,
+    "ready": false,
+    "blocker_ids": [
+      "template_unfilled"
+    ]
+  },
+  "payload": {}
+}

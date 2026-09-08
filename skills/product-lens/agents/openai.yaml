@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Lens · 产品透镜"
+  short_description: "沿用户场景逐环节取证，生成产品方案，并按需开发、完善交互与上线验收"
+  default_prompt: "使用 $product-lens，先明确用户场景和本轮目标，按实际试用或逐张截图取证，完成自检后交我核对，再推进已授权的阶段。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project_id": null,
+  "mode": "method_design",
+  "business_scope": null,
+  "current_stage": null,
+  "authorized_end": null,
+  "authorization_reference": null,
+  "artifact_registry": {},
+  "checkpoint_policy": "ai_self_check_then_user_review",
+  "active_handoff_path": null,
+  "allowed_work": [],
+  "blocked_work": [],
+  "next_user_review": null
+}
